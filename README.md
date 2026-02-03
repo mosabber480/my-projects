@@ -1,2 +1,2 @@
-# My-Projects
-https://mosabber480.github.io/My-Projects/
+# my-projects
+https://mosabber480.github.io/my-projects/
